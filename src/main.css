@@ -1,0 +1,12 @@
+.NavbarPlacement {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.fail {
+    width: 30rem;
+}
+.torta {
+    font-size: 100px;
+}
+    
